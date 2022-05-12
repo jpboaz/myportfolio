@@ -1,11 +1,11 @@
 export const meta = {
-  title: 'LeBron James - Web Developer and Designer',
-  description: 'Hey, I\'m LeBron. I\'m a web developer and designer building things people love.'
+  title: 'Julian Boaz - Software Engineer',
+  description: 'Software Engineer | Lockheed Martin'
 }
 
 export const hero = {
-  title: "Hey there! I'm LeBron James.",
-  desc: "I'm a web developer and designer building things people love."
+  title: "Hey there! I'm Julian Boaz.",
+  desc: "Software Engineer | Lockheed Martin"
 };
 
 export const projects = {
@@ -13,45 +13,45 @@ export const projects = {
   desc: "Here are some of my favorite projects that I've worked on.",
   projects: [
     {
-      title: 'Lakers Official',
-      description: 'Home to the Los-Angeles Lakers',
-      link: 'https://lakers.com',
-      github: ''
+      title: 'COVID-19 Deaths Predictions',
+      description: 'A machine learning model to predict the amount of deaths in a particular region of the United States',
+      
+      github: 'jpboaz/COVID-19Model'
     },
     {
-      title: 'Cool App',
-      description: 'A cool app!',
-      link: 'https://lebronscoolapp.com',
-      github: 'theking-lbj/cool-app'
+      title: 'Senior Design Facial Recognition',
+      description: 'A simple Python application that detects user\'s faces using artificial intelligence',
+      github: 'jpboaz/SeniorDesignTest'
     },
     {
-      title: 'Another app',
-      description: 'Another app!',
-      link: 'https://anotherlebronapp.com',
-      github: 'theking-lbj/another-app'
+      title: 'Atomization Energy Neural Network',
+      description: 'Using a neural network to predict the atomization energy of a particular molecule',
+      github: 'jpboaz/AtomizaitonEnergyNeuralNetwork'
     }
   ]
 };
 
 export const stack = {
-  title: 'My Stack',
+  title: 'Tools',
   stack: [
-    'HTML',
-    'CSS',
-    'JavaScript',
-    'Typescript',
+    'Java',
+    'C++',
+    'Python',
     'React',
-    'NextJS',
-    'TailwindCSS',
-    'Firebase',
-    'Git'
+    'PHP',
+    'AWS',
+    'C',
+    'Bash',
+    'Git',
+    'Verilog',
+    'JavaScript',
+    'HTML/CSS'
   ]
 };
 
 export const contact = {
   title: 'Contact Me',
-  email: 'lebron@gmail.com',
-  github: 'theking-lbj',
-  dribbble: 'theking-lbj',
-  linkedin: 'theking-lbj'
+  email: 'julian.boaz@gmail.com',
+  github: 'jpboaz',
+  linkedin: 'julianboaz'
 };
